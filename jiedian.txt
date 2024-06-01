@@ -1,0 +1,3 @@
+hy2://f0fa9d31@34.22.93.160:10498/?insecure=1&sni=www.bing.%20com#Korea-Google-hy2
+hy2://803dadef@34.150.120.195:19607/?insecure=1&sni=www.bing.com#HongKong-Google-hy2
+hy2://7e25d8a2@34.146.253.242:57435/?insecure=1&sni=www.bing.com#Japan-Google-hy2
