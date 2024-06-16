@@ -1,4 +1,1 @@
-hy2://803dadef@34.150.120.195:19607/?insecure=1&sni=www.bing.com#HongKong-Google-hy2
-hy2://7e25d8a2@34.146.253.242:57435/?insecure=1&sni=www.bing.com#Japan-Google-hy2-GPT
-hy2://1a4d8891@35.235.104.115:11205/?insecure=1&sni=www.bing.com#United%20States-Google-hy2-GPT
 hy2://9c9372e9@34.22.93.160:34991/?insecure=1&sni=www.bing.com#Korea-Google-hy2-GPT
